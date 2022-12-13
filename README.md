@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @deadwalker10s
-- 👀 I’m interested in IOT an machine learning
+- 👋 Code name  @deadwalker10s
+- 👀 I’m interested in IOT and machine learning
 - 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on everything
+- 💞️ getting my hands on everything that intrests me
 - 📫 How to reach me benvarkey100@gmail.com
 
 <!---
