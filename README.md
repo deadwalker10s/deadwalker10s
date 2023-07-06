@@ -1,6 +1,6 @@
 - 👋 Code name  @deadwalker10s
 - 👀 I’m interested in IOT and machine learning
-- 🌱 I’m currently learning AI/ML
+- 🌱 I’m currently learning JAVA Fullstack
 - 💞️ getting my hands on everything that intrests me
 - 📫 How to reach me benvarkey100@gmail.com
 
