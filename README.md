@@ -1,6 +1,6 @@
-- 👋 Code name  @deadwalker10s
+- 👋 Code name  CypherBee
 - 👀 Interested in IOT and Machine Learning
-- 🌱 learning JAVA Fullstack
+- 🌱 Agile Learning
 - 💞️ Getting my hands on everything that intrests me
 - 📫 How to reach me benvarkey100@gmail.com
 
